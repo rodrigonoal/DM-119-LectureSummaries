@@ -1,4 +1,4 @@
-# AWS IoT
+# Amazon Web Services Internet of Things
 
 ## General
 
